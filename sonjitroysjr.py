@@ -38,7 +38,6 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    Sonjit Roy Sjr 
-   ▄︻̷̿┻̿═━一
    THE ANONYMOUS 
    THE LEGEND 
    Bangladesh  Hackers
